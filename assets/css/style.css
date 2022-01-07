@@ -1,0 +1,23 @@
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+main {
+
+    width: 200px;
+    margin:0 auto;
+    margin-left:50%;
+    border: 3px double black;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+main p {
+    margin-bottom: 10px;
+}
+
+a#clicks {
+    margin-top: 20px;
+    padding: 5px;
+    border:2px solid red;
+    border-radius: 4px;
+}
